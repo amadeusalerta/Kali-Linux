@@ -1,3 +1,12 @@
 setxkbmap (tag) = Change Language
 pwd = Current Location on Kali
 ls = Shows the Folders,Application etc. in your Location
+cd (File) = You can move to the selected Folder
+mkdir (Folder Name) = Creates folder on the selected Location
+clear = Clear the Terminal!
+cd .. = Go one step back from the current Location
+touch (File Name) = Creates file on the selected Location
+mv = Move the File
+cp = Copy the File  [cp notes.txt Test_Folder/notes.txt]
+rm = Remove the File
+... --help= Opens the Code's documentation
